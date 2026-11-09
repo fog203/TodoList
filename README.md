@@ -16,5 +16,6 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 
 </details>
+<img width="365" height="821" alt="스크린샷 2026-11-09 205010" src="https://github.com/user-attachments/assets/4c789ade-2fce-4988-9113-0bb84d7fa5fa" />
+<img width="365" height="824" alt="스크린샷 2026-11-09 205003" src="https://github.com/user-attachments/assets/f49bb53b-b9c1-418e-b1c5-5309014123c3" />
 
-<img width="748" height="829" alt="image" src="https://github.com/user-attachments/assets/de23ec31-c2d3-432d-baf9-50750198aa29" />
