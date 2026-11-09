@@ -16,3 +16,5 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 
 </details>
+
+<img width="748" height="829" alt="image" src="https://github.com/user-attachments/assets/de23ec31-c2d3-432d-baf9-50750198aa29" />
